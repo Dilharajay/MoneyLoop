@@ -18,6 +18,7 @@ ENV/
 env/
 .venv/
 *.env
+.env
 
 # Static files
 /static/
