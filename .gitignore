@@ -1,0 +1,54 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/db.sqlite3-journal
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+*.env
+
+# Static files
+/static/
+/media/
+
+# Django migrations
+/migrations/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Windows Thumbs.db
+Thumbs.db
+
+# MacOS .DS_Store
+.DS_Store
+
+# JetBrains IDEs (e.g., PyCharm)
+.idea/
+
+# Docker
+docker-compose.override.yml
